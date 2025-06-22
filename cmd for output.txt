@@ -1,0 +1,3 @@
+D:\Elevate labs\News_Article_Classifier>python news_classifier.py
+
+D:\Elevate labs\News_Article_Classifier>streamlit run streamlit_app.py
